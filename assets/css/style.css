@@ -94,7 +94,7 @@ nav{
     top: 0px;
     /* left: 0; */
     width: 90%;
-    background-color:peachpuff;
+    background-color:gray;
     text-align: end;
     padding: 10px;
     margin: 10px;
@@ -102,7 +102,7 @@ nav{
 }
 
 footer{
-    background-color:peachpuff;
+    background-color:gray;
     text-align: end;
     padding: 10px;
     margin: 10px;
@@ -118,7 +118,7 @@ li {
 
 li a {
     
-    color: #bdbdbd;
+    color: white;
     border-right: 1px solid #bdbdbd;
     padding: 8px;
     text-align: left;
